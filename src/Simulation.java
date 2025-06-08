@@ -28,6 +28,6 @@ public class Simulation {
             renderer.render(simulationMap);
             turnCounter++;
         }
-
+        System.out.println("Симуляция завершена!");
     }
 }
